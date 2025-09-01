@@ -1,5 +1,15 @@
-## Next.js App Router Course - Starter
+# 🚀 Next.js Dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This project is built with [Next.js](https://nextjs.org/) following Vercel’s documentation and best practices.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+---
+
+## 📦 Getting Started
+
+### 1. Create a New Project
+You can create this project with:
+
+```bash
+npx create-next-app@latest nextjs-dashboard \
+  --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" \
+  --use-pnpm
